@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "helloworld",
-    "slug": "helloworld",
+    "name": "React Native",
+    "slug": "React Native",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "helloworld"
+  "name": "React Native"
 }
