@@ -1,8 +1,10 @@
 import { defaultBranch, LangsBranch } from './router';
-import { styles } from './configs';
+import { styles, proxy } from './configs';
 
 const initState = {
-    css: styles
+    css: styles,
+    proxy,
+    auth: { signed: false }
 }
 
 export default ( state = initState, action ) => {
